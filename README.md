@@ -1,7 +1,6 @@
-# Leantime #
+ระบบการจัดการโครงการ
 
-Leantime is a lean open source project management system for startups and innovators written in PHP, Javascript with MySQL. [https://leantime.io](https://leantime.io)
-<br /><br />
+
 Features:
 * Task management using kanban boards, table and calendar views
 * Idea boards & idea kanban boards
@@ -17,14 +16,6 @@ Features:
 * Export timesheets, tasks and milestones to CSV
 * File storage with AWS S3 or local file system 
 * Available in English, Spanish, Russian, Dutch
-
-
-### Screenshots ###
-
-| ![alt text](public/images/Screenshots/Dashboard.png "Dashboard")        | ![alt text](public/images/Screenshots/TodoKanban.png "Kanban Board")  | ![alt text](public/images/Screenshots/ToDoTable.png "Grouped To-Dos") |
-| ------------------------------------------------------------------------|:--------------------------------------------------------------------:| :--------------------------------------------------------------------: |
-| ![alt text](public/images/Screenshots/MilestoneGantt.png "Milestone Gantt Charts") | ![alt text](public/images/Screenshots/TimesheetsShowMy.png "My Timesheets") | ![alt text](public/images/Screenshots/Ideaboards.png "Idea Board")   |
-| ![alt text](public/images/Screenshots/Reports.png "Report Screens")   | ![alt text](public/images/Screenshots/LeanCanvas.png "Lean Canvas")    | ![alt text](public/images/Screenshots/MyCalendar.png "My Calendar") |
 
 
 ### Installation (Production) ###
