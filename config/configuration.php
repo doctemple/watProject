@@ -12,9 +12,9 @@ class config
 
   /* Database */
   public $dbHost="localhost"; //Database host
-  public $dbUser="siriwati"; //Database username
-  public $dbPassword="phuvieng123"; //Database password
-  public $dbDatabase="siriwati_project"; //Database name
+  public $dbUser=""; //Database username
+  public $dbPassword=""; //Database password
+  public $dbDatabase=""; //Database name
 
   /* Fileupload */
   public $userFilePath= "userfiles/"; //Local relative path to store uploaded files (if not using S3)
